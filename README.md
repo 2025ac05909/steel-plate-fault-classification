@@ -139,3 +139,12 @@ steel-plate-fault-classification/
     ├── random_forest.pkl
     ├── label_encoder.pkl
     └── feature_columns.pkl
+## Deployment
+
+The application is deployed using Streamlit Community Cloud.
+
+**Live Streamlit Application:**  
+https://steelsight-ai-2025ac05909.streamlit.app
+
+**GitHub Repository:**  
+https://github.com/2025ac05909/steel-plate-fault-classification
