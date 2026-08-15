@@ -128,9 +128,10 @@ steel-plate-fault-classification/
 ├── app.py
 ├── README.md
 ├── requirements.txt
+├── Faults.NNA
 ├── test_data.csv
 ├── model_comparison.csv
-├── ML_Assignment_2.ipynb
+├── 2025AC05909_ML_Assignment_02.ipynb
 └── model/
     ├── logistic_regression.pkl
     ├── decision_tree.pkl
@@ -139,6 +140,8 @@ steel-plate-fault-classification/
     ├── random_forest.pkl
     ├── label_encoder.pkl
     └── feature_columns.pkl
+```
+
 ## Deployment
 
 The application is deployed using Streamlit Community Cloud.
